@@ -28,11 +28,11 @@
         <activity
             android:name="theredspy15.ltecleanerfoss.WhitelistActivity"
             android:parentActivityName="theredspy15.ltecleanerfoss.SettingsActivity"
-            android:screenOrientation="portrait"
+            android:screenOrientation="unspecified"
             android:theme="@style/SettingsTheme" />
         <activity
             android:name="theredspy15.ltecleanerfoss.MainActivity"
-            android:screenOrientation="portrait">
+            android:screenOrientation="unspecified">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -42,7 +42,7 @@
         <activity
             android:name="theredspy15.ltecleanerfoss.SettingsActivity"
             android:parentActivityName="theredspy15.ltecleanerfoss.MainActivity"
-            android:screenOrientation="portrait"
+            android:screenOrientation="unspecified"
             android:theme="@style/SettingsTheme" />
     </application>
 
