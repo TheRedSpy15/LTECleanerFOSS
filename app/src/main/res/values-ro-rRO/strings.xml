@@ -63,6 +63,7 @@
     <string name="permission_needed">Permisiune necesară!</string>
     <string name="failed_scan">Scanare eşuată.</string>
     <string name="are_you_sure_deletion">Sunteţi sigur? Fişierele şterse nu pot fi restaurate</string>
+    <string name="are_you_sure_deletion_title">Confirm Deletion</string>
     <string name="aggressive_filter_what_title">Ce filtru agresiv face</string>
     <string name="adds_the_following">Adaugă următoarele filtre:</string>
     <string name="samsung_not_work">Nu funcţionează pe dispozitive samsung</string>
@@ -102,9 +103,12 @@
         <item>bugreporturi</item>
         <item>.Coş de gunoi</item>
         <item>cache</item>
+        <item>splashad</item>
     </string-array>
     <string-array name="aggressive_filter_files">
         <item>.exo</item>
         <item>thm? .db</item>
+        <item>.thumb[0-9]</item>
+        <item>splashad</item>
     </string-array>
 </resources>
