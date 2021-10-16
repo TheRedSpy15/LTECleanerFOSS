@@ -63,6 +63,7 @@
     <string name="permission_needed">Permission needed!</string>
     <string name="failed_scan">Scan failed.</string>
     <string name="are_you_sure_deletion">Are you sure? Files deleted cannot be restored</string>
+    <string name="are_you_sure_deletion_title">Confirm Deletion</string>
     <string name="aggressive_filter_what_title">What aggressive filter does</string>
     <string name="adds_the_following">Adds the following filters:</string>
     <string name="samsung_not_work">Doesn\'t work on samsung devices</string>
@@ -102,9 +103,12 @@
         <item>bugreports</item>
         <item>.Trash</item>
         <item>cache</item>
+        <item>splashad</item>
     </string-array>
     <string-array name="aggressive_filter_files">
         <item>.exo</item>
         <item>thumbs?.db</item>
+        <item>.thumb[0-9]</item>
+        <item>splashad</item>
     </string-array>
 </resources>
