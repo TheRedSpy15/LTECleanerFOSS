@@ -63,6 +63,7 @@
     <string name="permission_needed">필요한 권한!</string>
     <string name="failed_scan">스캔이 실패했습니다.</string>
     <string name="are_you_sure_deletion">확실해요? 삭제된 파일을 복원할 수 없음</string>
+    <string name="are_you_sure_deletion_title">Confirm Deletion</string>
     <string name="aggressive_filter_what_title">어떤 공격적인 필터가</string>
     <string name="adds_the_following">다음 필터를 추가합니다.</string>
     <string name="samsung_not_work">삼성장치에서 작동하지 않는다</string>
@@ -102,9 +103,12 @@
         <item>부글부글</item>
         <item>.휴지통</item>
         <item>캐시</item>
+        <item>splashad</item>
     </string-array>
     <string-array name="aggressive_filter_files">
         <item>.exo</item>
         <item>엄지손가락? .db</item>
+        <item>.thumb[0-9]</item>
+        <item>splashad</item>
     </string-array>
 </resources>
