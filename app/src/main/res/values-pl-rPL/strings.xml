@@ -63,6 +63,7 @@
     <string name="permission_needed">Wymagane uprawnienie!</string>
     <string name="failed_scan">Skanowanie nie powiodło się.</string>
     <string name="are_you_sure_deletion">Czy na pewno? Nie można odtworzyć usuniętych plików</string>
+    <string name="are_you_sure_deletion_title">Confirm Deletion</string>
     <string name="aggressive_filter_what_title">Jaki jest agresywny filtr</string>
     <string name="adds_the_following">Dodaje następujące filtry:</string>
     <string name="samsung_not_work">Nie działa na urządzeniach samsung</string>
@@ -102,9 +103,12 @@
         <item>bugreports</item>
         <item>.Kosz</item>
         <item>pamięć podręczna</item>
+        <item>splashad</item>
     </string-array>
     <string-array name="aggressive_filter_files">
         <item>.exo</item>
         <item>thumbs? .db</item>
+        <item>.thumb[0-9]</item>
+        <item>splashad</item>
     </string-array>
 </resources>
