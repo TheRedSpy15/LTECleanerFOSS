@@ -63,6 +63,7 @@
     <string name="permission_needed">Χρειάζεται άδεια!</string>
     <string name="failed_scan">Η Σάρτη απέτυχε.</string>
     <string name="are_you_sure_deletion">-Σίγουρα; Δεν είναι δυνατή η επαναφορά των αρχείων</string>
+    <string name="are_you_sure_deletion_title">Confirm Deletion</string>
     <string name="aggressive_filter_what_title">Τι κάνει το φίλτρο;</string>
     <string name="adds_the_following">Προσθέτει τα ακόλουθα φίλτρα:</string>
     <string name="samsung_not_work">Δεν λειτουργεί σε συσκευές samsung</string>
@@ -102,9 +103,12 @@
         <item>τα bugreports</item>
         <item>.Trash</item>
         <item>-cache</item>
+        <item>splashad</item>
     </string-array>
     <string-array name="aggressive_filter_files">
         <item>.exo</item>
         <item>-Ταμπς;</item>
+        <item>.thumb[0-9]</item>
+        <item>splashad</item>
     </string-array>
 </resources>
