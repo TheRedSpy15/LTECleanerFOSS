@@ -63,6 +63,7 @@
     <string name="permission_needed">Необходимы разрешения!</string>
     <string name="failed_scan">Сканирование завершилось неудачно.</string>
     <string name="are_you_sure_deletion">Вы уверены? Невозможно восстановить удаленные файлы</string>
+    <string name="are_you_sure_deletion_title">Confirm Deletion</string>
     <string name="aggressive_filter_what_title">Что делает агрессивный фильтр</string>
     <string name="adds_the_following">Добавляет следующие фильтры:</string>
     <string name="samsung_not_work">Не работает на устройствах с самсунг</string>
@@ -102,9 +103,12 @@
         <item>Отчеты</item>
         <item>.Trash</item>
         <item>кэш</item>
+        <item>splashad</item>
     </string-array>
     <string-array name="aggressive_filter_files">
         <item>.exo</item>
         <item>thumbs? .db</item>
+        <item>.thumb[0-9]</item>
+        <item>splashad</item>
     </string-array>
 </resources>
