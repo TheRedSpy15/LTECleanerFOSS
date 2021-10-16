@@ -63,6 +63,7 @@
     <string name="permission_needed">Berechtigung erforderlich!</string>
     <string name="failed_scan">Scan fehlgeschlagen.</string>
     <string name="are_you_sure_deletion">Sind Sie sicher? Gelöschte Dateien können nicht wiederhergestellt werden</string>
+    <string name="are_you_sure_deletion_title">Confirm Deletion</string>
     <string name="aggressive_filter_what_title">Was für ein aggressiver Filter</string>
     <string name="adds_the_following">Fügt die folgenden Filter hinzu:</string>
     <string name="samsung_not_work">Funktioniert nicht auf Samsung-Geräten</string>
@@ -102,9 +103,12 @@
         <item>Bugreports</item>
         <item>.Papierkorb</item>
         <item>Cache</item>
+        <item>splashad</item>
     </string-array>
     <string-array name="aggressive_filter_files">
         <item>.exo</item>
         <item>thumbs? .db</item>
+        <item>.thumb[0-9]</item>
+        <item>splashad</item>
     </string-array>
 </resources>
