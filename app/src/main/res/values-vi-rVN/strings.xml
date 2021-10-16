@@ -63,6 +63,7 @@
     <string name="permission_needed">Cho phép!</string>
     <string name="failed_scan">Quét không thành công.</string>
     <string name="are_you_sure_deletion">Anh chắc chứ? Không thể khôi phục tập tin bị xóa</string>
+    <string name="are_you_sure_deletion_title">Confirm Deletion</string>
     <string name="aggressive_filter_what_title">Những gì bộ lọc tích cực</string>
     <string name="adds_the_following">Thêm bộ lọc sau:</string>
     <string name="samsung_not_work">Không làm việc trên các thiết bị samsung</string>
@@ -102,9 +103,12 @@
         <item>bugreports</item>
         <item>.Trash</item>
         <item>cache</item>
+        <item>splashad</item>
     </string-array>
     <string-array name="aggressive_filter_files">
         <item>.exo</item>
         <item>ngón tay cái? .db</item>
+        <item>.thumb[0-9]</item>
+        <item>splashad</item>
     </string-array>
 </resources>
