@@ -63,6 +63,7 @@
     <string name="permission_needed">Permissão necessária!</string>
     <string name="failed_scan">Varredura falhou.</string>
     <string name="are_you_sure_deletion">Você tem certeza? Arquivos excluídos não podem ser restaurados</string>
+    <string name="are_you_sure_deletion_title">Confirm Deletion</string>
     <string name="aggressive_filter_what_title">Que filtro agressivo faz</string>
     <string name="adds_the_following">Inclui os seguintes filtros:</string>
     <string name="samsung_not_work">Não funciona em dispositivos samsung</string>
@@ -102,9 +103,12 @@
         <item>bugreports</item>
         <item>.Trash</item>
         <item>cache</item>
+        <item>splashad</item>
     </string-array>
     <string-array name="aggressive_filter_files">
         <item>.exo</item>
         <item>polegar? .db</item>
+        <item>.thumb[0-9]</item>
+        <item>splashad</item>
     </string-array>
 </resources>
