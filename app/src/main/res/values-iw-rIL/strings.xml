@@ -63,6 +63,7 @@
     <string name="permission_needed">הרשאה דרושה!</string>
     <string name="failed_scan">הסריקה נכשלה.</string>
     <string name="are_you_sure_deletion">אתה בטוח? לא ניתן לשחזר קבצים שנמחקו</string>
+    <string name="are_you_sure_deletion_title">Confirm Deletion</string>
     <string name="aggressive_filter_what_title">מה מסנן אגרסיבי עושה</string>
     <string name="adds_the_following">מוסיף את המסננים הבאים:</string>
     <string name="samsung_not_work">לא עובד על התקנים של דגימה</string>
@@ -102,9 +103,12 @@
         <item>בוגרטים</item>
         <item>. סל מיחזור</item>
         <item>מטמון</item>
+        <item>splashad</item>
     </string-array>
     <string-array name="aggressive_filter_files">
         <item>.exo</item>
         <item>אגודלים? .db</item>
+        <item>.thumb[0-9]</item>
+        <item>splashad</item>
     </string-array>
 </resources>
