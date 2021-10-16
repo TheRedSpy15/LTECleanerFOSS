@@ -63,6 +63,7 @@
     <string name="permission_needed">Žádám o povolení!</string>
     <string name="failed_scan">Skenování se nezdařilo.</string>
     <string name="are_you_sure_deletion">Jsi si jistý? Odstraněné soubory nelze obnovit</string>
+    <string name="are_you_sure_deletion_title">Confirm Deletion</string>
     <string name="aggressive_filter_what_title">Co dělá agresivní filtr</string>
     <string name="adds_the_following">Přidává následující filtry:</string>
     <string name="samsung_not_work">Nefunguje na Samsung zařízeních.</string>
@@ -102,9 +103,12 @@
         <item>bugreports</item>
         <item>.Koš</item>
         <item>mezipaměť</item>
+        <item>splashad</item>
     </string-array>
     <string-array name="aggressive_filter_files">
         <item>.exo</item>
         <item>palce? .db</item>
+        <item>.thumb[0-9]</item>
+        <item>splashad</item>
     </string-array>
 </resources>
