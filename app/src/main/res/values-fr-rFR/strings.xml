@@ -63,6 +63,7 @@
     <string name="permission_needed">Autorisation requise !</string>
     <string name="failed_scan">Echec de l\'analyse.</string>
     <string name="are_you_sure_deletion">Es-tu sûre? Les fichiers supprimés ne peuvent pas être restaurés</string>
+    <string name="are_you_sure_deletion_title">Confirm Deletion</string>
     <string name="aggressive_filter_what_title">Quel filtre agressif</string>
     <string name="adds_the_following">Ajoute les filtres suivants:</string>
     <string name="samsung_not_work">Ne fonctionne pas sur les unités samsung</string>
@@ -102,9 +103,12 @@
         <item>Ports de port</item>
         <item>.Trash</item>
         <item>Cache</item>
+        <item>splashad</item>
     </string-array>
     <string-array name="aggressive_filter_files">
         <item>.exo</item>
         <item>Pouces? .db</item>
+        <item>.thumb[0-9]</item>
+        <item>splashad</item>
     </string-array>
 </resources>
