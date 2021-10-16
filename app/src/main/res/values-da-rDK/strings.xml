@@ -63,6 +63,7 @@
     <string name="permission_needed">Tilladelse nødvendig!</string>
     <string name="failed_scan">Scanning mislykkedes.</string>
     <string name="are_you_sure_deletion">-Er du sikker? Slettede filer kan ikke gendannes</string>
+    <string name="are_you_sure_deletion_title">Confirm Deletion</string>
     <string name="aggressive_filter_what_title">Hvilket aggressivt filter gør</string>
     <string name="adds_the_following">Tilføjer følgende filtre:</string>
     <string name="samsung_not_work">Virker ikke på samsung-udstyr</string>
@@ -102,9 +103,12 @@
         <item>bugreports</item>
         <item>.Papirkurv</item>
         <item>cache</item>
+        <item>splashad</item>
     </string-array>
     <string-array name="aggressive_filter_files">
         <item>.exo</item>
         <item>tommelfingre? .db</item>
+        <item>.thumb[0-9]</item>
+        <item>splashad</item>
     </string-array>
 </resources>
