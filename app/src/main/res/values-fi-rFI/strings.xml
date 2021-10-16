@@ -63,6 +63,7 @@
     <string name="permission_needed">Lupa tarvitaan!</string>
     <string name="failed_scan">Scan epäonnistui.</string>
     <string name="are_you_sure_deletion">Oletko varma? Tiedostoja ei voi palauttaa</string>
+    <string name="are_you_sure_deletion_title">Confirm Deletion</string>
     <string name="aggressive_filter_what_title">Mikä aggressiivinen suodatin</string>
     <string name="adds_the_following">Lisää seuraavat suodattimet:</string>
     <string name="samsung_not_work">Se ei toimi samsungin laitteissa.</string>
@@ -102,9 +103,12 @@
         <item>Bugretit</item>
         <item>.Trash</item>
         <item>Välimuisti</item>
+        <item>splashad</item>
     </string-array>
     <string-array name="aggressive_filter_files">
         <item>.exo</item>
         <item>Peukalot?</item>
+        <item>.thumb[0-9]</item>
+        <item>splashad</item>
     </string-array>
 </resources>
