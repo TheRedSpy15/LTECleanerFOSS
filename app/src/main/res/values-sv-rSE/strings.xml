@@ -63,6 +63,7 @@
     <string name="permission_needed">Behörighet behövs!</string>
     <string name="failed_scan">Skanningen misslyckades.</string>
     <string name="are_you_sure_deletion">Är du säker på det? Borttagna filer kan inte återställas</string>
+    <string name="are_you_sure_deletion_title">Confirm Deletion</string>
     <string name="aggressive_filter_what_title">Vilket aggressivt filter gör</string>
     <string name="adds_the_following">Lägger till följande filter:</string>
     <string name="samsung_not_work">Fungs inte på Samsung-enheter</string>
@@ -102,9 +103,12 @@
         <item>bugreports</item>
         <item>.papperskorg</item>
         <item>cache</item>
+        <item>splashad</item>
     </string-array>
     <string-array name="aggressive_filter_files">
         <item>.exo</item>
         <item>Tummar?</item>
+        <item>.thumb[0-9]</item>
+        <item>splashad</item>
     </string-array>
 </resources>
