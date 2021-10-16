@@ -63,6 +63,7 @@
     <string name="permission_needed">Toestemming nodig!</string>
     <string name="failed_scan">Scan is mislukt.</string>
     <string name="are_you_sure_deletion">Weet je het zeker? Verwijderde bestanden kunnen niet worden hersteld</string>
+    <string name="are_you_sure_deletion_title">Confirm Deletion</string>
     <string name="aggressive_filter_what_title">Wat agressieve filter doet</string>
     <string name="adds_the_following">Hiermee voegt u de volgende filters toe:</string>
     <string name="samsung_not_work">Werkt niet op samsung-apparaten</string>
@@ -102,9 +103,12 @@
         <item>bugreports</item>
         <item>.Prullenbak</item>
         <item>cache</item>
+        <item>splashad</item>
     </string-array>
     <string-array name="aggressive_filter_files">
         <item>.exo</item>
         <item>thumbs? .db</item>
+        <item>.thumb[0-9]</item>
+        <item>splashad</item>
     </string-array>
 </resources>
