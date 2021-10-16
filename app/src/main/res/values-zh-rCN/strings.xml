@@ -63,6 +63,7 @@
     <string name="permission_needed">需要许可 !</string>
     <string name="failed_scan">扫描失败。</string>
     <string name="are_you_sure_deletion">你确定吗 无法复原删除的文件</string>
+    <string name="are_you_sure_deletion_title">Confirm Deletion</string>
     <string name="aggressive_filter_what_title">什么好的过滤器</string>
     <string name="adds_the_following">添加以下过滤器:</string>
     <string name="samsung_not_work">在 samsung 设备上不行</string>
@@ -102,9 +103,12 @@
         <item>布格汇报</item>
         <item>. 废纸篓</item>
         <item>高速缓存</item>
+        <item>splashad</item>
     </string-array>
     <string-array name="aggressive_filter_files">
         <item>.exo</item>
         <item>拇指?.db</item>
+        <item>.thumb[0-9]</item>
+        <item>splashad</item>
     </string-array>
 </resources>
