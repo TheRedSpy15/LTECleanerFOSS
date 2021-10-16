@@ -63,6 +63,7 @@
     <string name="permission_needed">許可が必要です。</string>
     <string name="failed_scan">スキャンが失敗した</string>
     <string name="are_you_sure_deletion">- 確かか ? 削除されたファイルを復元する</string>
+    <string name="are_you_sure_deletion_title">Confirm Deletion</string>
     <string name="aggressive_filter_what_title">攻撃フィルターの機能</string>
     <string name="adds_the_following">次のフィルターを追加します。</string>
     <string name="samsung_not_work">サムソン・デバイスでは機能しません</string>
@@ -102,9 +103,12 @@
         <item>bugreports</item>
         <item>.Trash</item>
         <item>cache</item>
+        <item>splashad</item>
     </string-array>
     <string-array name="aggressive_filter_files">
         <item>.exo</item>
         <item>thumbs?.db</item>
+        <item>.thumb[0-9]</item>
+        <item>splashad</item>
     </string-array>
 </resources>
