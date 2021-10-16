@@ -63,6 +63,7 @@
     <string name="permission_needed">請求批准</string>
     <string name="failed_scan">掃描失敗。</string>
     <string name="are_you_sure_deletion">你確定嗎？ 無法還原已刪除的檔案</string>
+    <string name="are_you_sure_deletion_title">Confirm Deletion</string>
     <string name="aggressive_filter_what_title">有哪些侵略性的過濾器</string>
     <string name="adds_the_following">新增下列過濾器：</string>
     <string name="samsung_not_work">在 samsung 裝置上不起作用</string>
@@ -102,9 +103,12 @@
         <item>bugreports</item>
         <item>.Trash</item>
         <item>快取</item>
+        <item>splashad</item>
     </string-array>
     <string-array name="aggressive_filter_files">
         <item>.exo</item>
         <item>thumbs？.db</item>
+        <item>.thumb[0-9]</item>
+        <item>splashad</item>
     </string-array>
 </resources>
