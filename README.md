@@ -99,7 +99,7 @@ development.
 <a href="https://github.com/TheRedSpy15/LTECleanerFOSS/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=TheRedSpy15/LTECleanerFOSS" />
 </a>
-     
+
 </details>
 
 **Privacy Policy:**
