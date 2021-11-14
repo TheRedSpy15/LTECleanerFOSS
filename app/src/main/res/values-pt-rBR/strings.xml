@@ -34,7 +34,7 @@
     <string name="settings_string">Configurações</string>
     <string name="title_activity_prompt">PromptAtividade</string>
     <string name="corpse_summary">Arquivos remanescentes de apps desinstalados</string>
-    <string name="corpse_title">Excluir arquivos emanescentes</string>
+    <string name="corpse_title">Excluir arquivos remanescentes</string>
     <string name="other">Outro</string>
     <string name="daily_title">Limpeza Diária</string>
     <string name="daily_sum">Executa diariamente de forma automática, sem que você precise abrir o app.</string>
@@ -42,11 +42,11 @@
     <string name="other_apps_sum">Eu tento lançar um novo a cada semana, mais ou menos</string>
     <string name="permission_needed">Permissão necessária!</string>
     <string name="failed_scan">A varredura falhou.</string>
-    <string name="are_you_sure_deletion">Você tem certeza? Arquivos excluídos não podem ser restaurados</string>
+    <string name="are_you_sure_deletion">Você tem certeza? Arquivos excluídos não poderão ser restaurados</string>
     <string name="are_you_sure_deletion_title">Confirmar Exclusão</string>
     <string name="aggressive_filter_what_title">O que o filtro agressivo faz?</string>
     <string name="adds_the_following">Inclui os seguintes filtros:</string>
-    <string name="samsung_not_work">Não funciona em dispositivos samsung</string>
+    <string name="samsung_not_work">Não funciona em dispositivos Samsung</string>
     <string name="clear_clipboard">Limpar área de transferência</string>
     <string name="double_check_sum">Rodará novamente o scan cada vez que algo for encontrado, com um limite de dez scans</string>
     <string name="double_check_title">Checador duplo</string>
