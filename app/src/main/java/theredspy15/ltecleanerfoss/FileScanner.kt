@@ -219,7 +219,7 @@ class FileScanner(private val path: File, context: Context?) {
                                 }
                             }
                         }
-                        
+
                     }
                 }
                 if (gui != null) { // progress
