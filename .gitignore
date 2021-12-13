@@ -26,7 +26,6 @@ out/
 build/
 
 # Signing files
-.signing
 .signing/
 
 # Local configuration file (sdk path, etc)
