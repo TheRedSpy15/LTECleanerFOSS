@@ -185,7 +185,8 @@ class FileScanner(private val path: File, context: Context?) {
         var maxCycles: Byte = 1
         var foundFiles: List<File>
         if (prefs.getBoolean("multirun", false)) maxCycles = 10
-        if (!delete) maxCycles = 1 // when nothing is being deleted. Stops duplicates from being found
+        if (!delete) maxCycles =
+            1 // when nothing is being deleted. Stops duplicates from being found
 
         // removes the need to 'clean' multiple times to get everything
         while (cycles < maxCycles) {
@@ -201,25 +202,28 @@ class FileScanner(private val path: File, context: Context?) {
             if (gui != null) gui!!.scanProgress.max = gui!!.scanProgress.max + foundFiles.size
 
             // scan & delete
-            var tv: TextView? = null
             for (file in foundFiles) {
                 if (filter(file)) { // filter
+                    var tv: TextView? = null
                     if (gui != null) tv = (context as MainActivity?)!!.displayDeletion(file)
 
-                    kilobytesTotal += file.length()
                     if (delete) {
+                        kilobytesTotal += file.length()
                         ++filesRemoved
 
                         // deletion
-                        if (!file.delete() && tv != null) { // failed to remove file and the textView is visible (not null)
+                        when {
+                            !file.delete() && tv != null -> {
+                                val finalTv: TextView = tv
                                 (context as MainActivity?)!!.runOnUiThread {
-                                    tv.setTextColor(
+                                    finalTv.setTextColor(
                                         Color.GRAY // error effect - red looks too concerning
                                     )
                                 }
                             }
                         }
-                        
+                    } else {
+                        kilobytesTotal += file.length()
                     }
                 }
                 if (gui != null) { // progress
@@ -230,8 +234,6 @@ class FileScanner(private val path: File, context: Context?) {
                     (context as MainActivity?)!!.runOnUiThread {
                         gui!!.scanTextView.text =
                             String.format(Locale.US, "%.0f", scanPercent) + "%"
-                        gui!!.statusTextView.text =
-                            context!!.getString(R.string.status_running) + " " + String.format(Locale.US, "%.0f", scanPercent) + "%"
                     }
                 }
             }
