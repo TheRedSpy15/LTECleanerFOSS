@@ -104,8 +104,8 @@ class FileScanner(private val path: File, context: Context?) {
                 // corpse checking - TODO: needs improved!
                 when {
                     corpse &&
-                    file.parentFile != null && 
-                    file.parentFile.parentFile != null && 
+                    file.parentFile != null &&
+                    file.parentFile.parentFile != null &&
                     file.parentFile.name == "data" &&
                     file.parentFile.parentFile.name == "Android" &&
                     file.name != ".nomedia" &&
