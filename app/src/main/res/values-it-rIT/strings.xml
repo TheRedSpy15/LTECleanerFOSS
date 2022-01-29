@@ -53,8 +53,8 @@
     <string name="notification_title">Processo di pulizia LTE terminato</string>
     <string name="clean_notification">Pulito:</string>
     <string name="empty_whitelist">Niente in whitelist</string>
-    <string name="theme_sum">Altrimenti seguiranno le impostazioni di sistema. Riavvia l\'app per prendere effetto</string>
-    <string name="theme_title">Seleziona Tema</string>
+    <string name="theme_sum">Se non selezionato, si seguiranno le impostazioni di sistema. Riavvia l\'app per rendere effettiva la modifica</string>
+    <string name="theme_title">Seleziona tema</string>
     <string name="filters_category_title">Filtri</string>
     <string name="scanner_category_title">Scanner</string>
     <string name="links_category_title">Link</string>
