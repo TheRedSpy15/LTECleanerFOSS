@@ -5,7 +5,7 @@
 <resources>
     <string name="app_name">Pembersih LTE</string>
     <string name="delete_empty_folders">Hapus folder kosong</string>
-    <string name="aggressive_filter">Aktifkan filter yang agresif</string>
+    <string name="aggressive_filter">Aktifkan filter agresif</string>
     <string name="whitelist">Daftar putih</string>
     <string name="privacy_policy">Kebijakan Privasi</string>
     <string name="add_to_whitelist">Tambahkan ke whitelist</string>
@@ -17,49 +17,49 @@
     <string name="freed">Dibebaskan: </string>
     <string name="found">Ditemukan: </string>
     <string name="auto_whitelist">Whitelist Otomatis</string>
-    <string name="reset_whitelist">-Whitelist kosong?</string>
-    <string name="are_you_reset_whitelist">Apakah kau yakin ingin membersihkan whitelist?</string>
+    <string name="reset_whitelist">Whitelist kosong?</string>
+    <string name="are_you_reset_whitelist">Apakah Anda yakin ingin membersihkan whitelist?</string>
     <string name="reset">Bersihkan</string>
     <string name="delete_apk_files">Hapus berkas .apk</string>
     <string name="status_idle">Status: Menganggur</string>
     <string name="progress_0">0%</string>
-    <string name="status_running">Status: Menjalankan</string>
-    <string name="privacy_sum">Lihat kebijakan privasi (link eksternal)</string>
+    <string name="status_running">Status: Berjalan</string>
+    <string name="privacy_sum">Lihat kebijakan privasi (tautan eksternal)</string>
     <string name="generic_sum">.tmp, .log, Logs, log</string>
-    <string name="aggressive_sum">Terlalu banyak daftar di sini</string>
-    <string name="apk_sum">Installer file untuk android</string>
-    <string name="oneclick_sum">Tidak ada dialog konfirmasi ketika tombol bersih ditekan</string>
-    <string name="autowhite_sum">Mendeteksi folder yang harus dilindungi secara otomatis</string>
+    <string name="aggressive_sum">Terlalu banyak untuk didaftarkan di sini</string>
+    <string name="apk_sum">Berkas penginstal untuk Android</string>
+    <string name="oneclick_sum">Tidak ada dialog konfirmasi ketika tombol bersihkan ditekan</string>
+    <string name="autowhite_sum">Deteksi folder yang seharusnya dilindungi secara otomatis</string>
     <string name="prompt_string">Harap tambahkan izin akses file</string>
     <string name="settings_string">Pengaturan</string>
-    <string name="title_activity_prompt">Aktivitas Promptn</string>
-    <string name="corpse_summary">File yang tersisa dari aplikasi yang belum terpasang</string>
+    <string name="title_activity_prompt">PromptActivity</string>
+    <string name="corpse_summary">Berkas yang tersisa dari aplikasi yang dicopot</string>
     <string name="corpse_title">Hapus berkas mayat</string>
     <string name="other">Lainnya</string>
     <string name="daily_title">Bersih Harian</string>
     <string name="daily_sum">Otomatis berjalan setiap hari, tanpa Anda harus membuka aplikasi.</string>
-    <string name="other_apps">Lihat aplikasiku yang lain!</string>
+    <string name="other_apps">Lihat aplikasi saya yang lain!</string>
     <string name="other_apps_sum">Saya mencoba untuk memiliki satu baru keluar setiap minggu atau lebih</string>
-    <string name="permission_needed">Ijin dibutuhkan!</string>
+    <string name="permission_needed">Izin dibutuhkan!</string>
     <string name="failed_scan">Pemindaian gagal.</string>
     <string name="are_you_sure_deletion">Apakah Anda yakin? Berkas yang dihapus tidak dapat dipulihkan</string>
     <string name="are_you_sure_deletion_title">Konfirmasi Penghapusan</string>
-    <string name="aggressive_filter_what_title">Apa filter agresif tidak</string>
-    <string name="adds_the_following">Tambahkan filter berikut:</string>
-    <string name="samsung_not_work">Tidak bekerja pada perangkat samsung</string>
+    <string name="aggressive_filter_what_title">Apa filter agresifnya melakukan</string>
+    <string name="adds_the_following">Menambahkan filter berikut:</string>
+    <string name="samsung_not_work">Tidak bekerja pada perangkat Samsung</string>
     <string name="clear_clipboard">Bersihkan papan klip</string>
-    <string name="double_check_sum">Will rerun scan setiap kali sesuatu ditemukan dengan batas dari sepuluh scan</string>
+    <string name="double_check_sum">Akan menjalankan ulang pemindaian setiap kali sesuatu ditemukan dengan batas dari sepuluh pemindaian</string>
     <string name="double_check_title">Pemeriksa Ganda</string>
-    <string name="notification_title">LTE Pekerja Bersih Selesai</string>
+    <string name="notification_title">Pekerja Pembersih LTE Selesai</string>
     <string name="clean_notification">Dibersihkan:</string>
     <string name="empty_whitelist">Tidak ada dalam whitelist</string>
-    <string name="theme_sum">Jika tidak, ikuti pengaturan sistem. Mulai ulang aplikasi untuk mengambil efek</string>
+    <string name="theme_sum">Jika tidak, ikuti pengaturan sistem. Mulai ulang aplikasi untuk menerapkan</string>
     <string name="theme_title">Pilih Tema</string>
     <string name="filters_category_title">Penyaring</string>
     <string name="scanner_category_title">Pemindai</string>
-    <string name="links_category_title">Taut</string>
+    <string name="links_category_title">Tautan</string>
     <string name="settings_page_title">Pengaturan</string>
-    <string name="remove_from_whitelist">Hapus dari Whitelist?</string>
+    <string name="remove_from_whitelist">Hapus dari whitelist?</string>
     <string name="delete">Hapus</string>
     <string name="clipboard_clear_failed">Gagal membersihkan papan klip</string>
     <string name="settings_notification_name">Notifikasi Pembersihan Setiap Hari</string>
@@ -69,27 +69,27 @@
         <item>.log</item>
     </string-array>
     <string-array name="generic_filter_folders">
-        <item>Log</item>
-        <item>log</item>
+        <item>Logs</item>
+        <item>logs</item>
         <item>temp</item>
-        <item>Sementara</item>
-        <item>Sementara</item>
+        <item>Temporary</item>
+        <item>temporary</item>
     </string-array>
     <!-- TODO: Remove or change this placeholder text -->
     <string-array name="aggressive_filter_folders">
-        <item>Icads</item>
-        <item>Singgahan</item>
-        <item>Analitik</item>
-        <item>Thumbnail?</item>
+        <item>supersonicads</item>
+        <item>Cache</item>
+        <item>Analytics</item>
+        <item>thumbnails?</item>
         <item>mobvista</item>
         <item>UnityAdsVideoCache</item>
-        <item>Albumthumbs?</item>
+        <item>albumthumbs?</item>
         <item>LOST.DIR</item>
-        <item>.Sampah</item>
+        <item>.Trash</item>
         <item>desktop.ini</item>
-        <item>Leakcanary</item>
+        <item>leakcanary</item>
         <item>.DS_Store</item>
-        <item>.spotcahayV100</item>
+        <item>.spotlight-v100</item>
         <item>fseventsd</item>
         <item>Laporan Bugak</item>
         <item>bugreport</item>
