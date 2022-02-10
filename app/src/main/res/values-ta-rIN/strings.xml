@@ -3,7 +3,7 @@
   ~ Copyright 2020 Hunter J Drum
   -->
 <resources>
-    <string name="app_name">LTE சுத்தம்</string>
+    <string name="app_name">LTE கிளீனர்</string>
     <string name="delete_empty_folders">வெற்று அடைவுகளை நீக்கு</string>
     <string name="aggressive_filter">ஆயுத்த வடிகட்டியை செயல்படுத்து</string>
     <string name="whitelist">வெள்ளிஸ்ட்</string>
