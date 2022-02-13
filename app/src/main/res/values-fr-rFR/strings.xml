@@ -3,7 +3,7 @@
   ~ Copyright 2020 Hunter J Drum
   -->
 <resources>
-    <string name="app_name">Nettoyeur LTE</string>
+    <string name="app_name">LTE Cleaner</string>
     <string name="delete_empty_folders">Supprimer les dossiers vides</string>
     <string name="aggressive_filter">Activer le filtre agressif</string>
     <string name="whitelist">Liste blanche</string>
@@ -24,7 +24,7 @@
     <string name="status_idle">Etat: Inactif</string>
     <string name="progress_0">0%</string>
     <string name="status_running">Etat: En cours d\'exécution</string>
-    <string name="privacy_sum">Afficher la règle de confidentialité (lien externe)</string>
+    <string name="privacy_sum">Voir la politique de confidentialité (lien externe)</string>
     <string name="generic_sum">.tmp, .log, journaux, journaux</string>
     <string name="aggressive_sum">Trop de listes ici</string>
     <string name="apk_sum">Fichiers du programme d\'installation pour android</string>
