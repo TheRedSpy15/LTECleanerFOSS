@@ -14,14 +14,14 @@
     <string name="analyze">Analyser</string>
     <string name="enable_generic_filter">Activer le filtre générique</string>
     <string name="one_click_clean">Nettoyage en un clic</string>
-    <string name="freed">Freed: </string>
+    <string name="freed">Libéré: </string>
     <string name="found">Trouver: </string>
     <string name="auto_whitelist">Liste blanche automatique</string>
     <string name="reset_whitelist">Liste blanche vide?</string>
     <string name="are_you_reset_whitelist">Etes-vous sûr de vouloir effacer la liste blanche?</string>
     <string name="reset">Effacer</string>
     <string name="delete_apk_files">Supprimer les fichiers .apk</string>
-    <string name="status_idle">Etat: Inactif</string>
+    <string name="status_idle">État: Inactif</string>
     <string name="progress_0">0%</string>
     <string name="status_running">État: En cours d\'exécution</string>
     <string name="privacy_sum">Voir la politique de confidentialité (lien externe)</string>
@@ -99,7 +99,7 @@
     </string-array>
     <string-array name="aggressive_filter_files">
         <item>.exo</item>
-        <item>Pouces? .db</item>
+        <item>miniature?.db</item>
         <item>.pouce[0-9]</item>
         <item>Splashad</item>
     </string-array>
