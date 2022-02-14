@@ -13,9 +13,9 @@
     <string name="clean">Nettoyer</string>
     <string name="analyze">Analyser</string>
     <string name="enable_generic_filter">Activer le filtre générique</string>
-    <string name="one_click_clean">Un clic sur le nettoyage</string>
+    <string name="one_click_clean">Nettoyage en un clic</string>
     <string name="freed">Freed: </string>
-    <string name="found">Trouvé: </string>
+    <string name="found">Trouver: </string>
     <string name="auto_whitelist">Liste blanche automatique</string>
     <string name="reset_whitelist">Liste blanche vide?</string>
     <string name="are_you_reset_whitelist">Etes-vous sûr de vouloir effacer la liste blanche?</string>
@@ -23,34 +23,34 @@
     <string name="delete_apk_files">Supprimer les fichiers .apk</string>
     <string name="status_idle">Etat: Inactif</string>
     <string name="progress_0">0%</string>
-    <string name="status_running">Etat: En cours d\'exécution</string>
+    <string name="status_running">État: En cours d\'exécution</string>
     <string name="privacy_sum">Voir la politique de confidentialité (lien externe)</string>
     <string name="generic_sum">.tmp, .log, journaux, journaux</string>
-    <string name="aggressive_sum">Trop de listes ici</string>
+    <string name="aggressive_sum">Trop d\'éléments à énumérer ici</string>
     <string name="apk_sum">Fichiers du programme d\'installation pour android</string>
     <string name="oneclick_sum">Aucune boîte de dialogue de confirmation lorsque le bouton de nettoyage est appuyé</string>
     <string name="autowhite_sum">Détecter les dossiers qui doivent être protégés automatiquement</string>
-    <string name="prompt_string">Veuillez ajouter des droits d\'accès aux fichiers</string>
+    <string name="prompt_string">Veuillez fournir l\'autorisation d\'accès aux fichiers</string>
     <string name="settings_string">Paramètres</string>
     <string name="title_activity_prompt">Activité PromptActivité</string>
     <string name="corpse_summary">Fichiers laissés par les applications non installées</string>
-    <string name="corpse_title">Supprimer les fichiers de dépouille</string>
+    <string name="corpse_title">Supprimer les cadavres</string>
     <string name="other">Autres</string>
     <string name="daily_title">Nettoyage quotidien</string>
     <string name="daily_sum">Exécuter automatiquement tous les jours, sans avoir à ouvrir l\'application.</string>
-    <string name="other_apps">Regardez mes autres applications !</string>
+    <string name="other_apps">Découvrez mes autres applications!</string>
     <string name="other_apps_sum">J\'essaie d\'en avoir une nouvelle chaque semaine.</string>
-    <string name="permission_needed">Autorisation requise !</string>
+    <string name="permission_needed">Autorisation requise!</string>
     <string name="failed_scan">Echec de l\'analyse.</string>
     <string name="are_you_sure_deletion">Es-tu sûre? Les fichiers supprimés ne peuvent pas être restaurés</string>
     <string name="are_you_sure_deletion_title">Confirmer la suppression</string>
     <string name="aggressive_filter_what_title">Quel filtre agressif</string>
     <string name="adds_the_following">Ajoute les filtres suivants:</string>
-    <string name="samsung_not_work">Ne fonctionne pas sur les unités samsung</string>
+    <string name="samsung_not_work">Ne fonctionne pas sur les périphériques samsung</string>
     <string name="clear_clipboard">Effacer le presse-papiers</string>
     <string name="double_check_sum">Réexécutez l\'analyse chaque fois qu\'un élément est détecté avec une limite de dix scans</string>
     <string name="double_check_title">Vérificateur double</string>
-    <string name="notification_title">Travailleur propre LTE terminé</string>
+    <string name="notification_title">Le nettoyeur de Clean LTE a terminé</string>
     <string name="clean_notification">Nettoyage:</string>
     <string name="empty_whitelist">Rien dans la liste blanche</string>
     <string name="theme_sum">Sinon, suivez les paramètres du système. Redémarrer l\'application pour qu\'il prenne effet</string>
@@ -105,7 +105,7 @@
     </string-array>
     <string-array name="themes">
         <item>Auto</item>
-        <item>Lumière</item>
-        <item>Dark</item>
+        <item>Clair</item>
+        <item>Obscur</item>
     </string-array>
 </resources>
