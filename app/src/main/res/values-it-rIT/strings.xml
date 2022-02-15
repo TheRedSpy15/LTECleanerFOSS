@@ -105,7 +105,7 @@
     </string-array>
     <string-array name="themes">
         <item>Auto</item>
-        <item>Luce</item>
-        <item>Buio</item>
+        <item>Chiaro</item>
+        <item>Scuro</item>
     </string-array>
 </resources>
