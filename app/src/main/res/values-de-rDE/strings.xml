@@ -3,7 +3,7 @@
   ~ Copyright 2020 Hunter J Drum
   -->
 <resources>
-    <string name="app_name">LTE-Reiniger</string>
+    <string name="app_name">LTE Reiniger</string>
     <string name="delete_empty_folders">Leere Ordner löschen</string>
     <string name="aggressive_filter">Aggressiven Filter aktivieren</string>
     <string name="whitelist">Whitelist</string>
@@ -21,7 +21,7 @@
     <string name="are_you_reset_whitelist">Sind Sie sicher, dass Sie die Whitelist löschen möchten?</string>
     <string name="reset">Löschen</string>
     <string name="delete_apk_files">.apk-Dateien löschen</string>
-    <string name="status_idle">Status: Idle</string>
+    <string name="status_idle">Status: Warten</string>
     <string name="progress_0">0%</string>
     <string name="status_running">Status: Aktiv</string>
     <string name="privacy_sum">Datenschutzrichtlinie anzeigen (externer Link)</string>
