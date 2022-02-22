@@ -3,13 +3,13 @@
   ~ Copyright 2020 Hunter J Drum
   -->
 <resources>
-    <string name="app_name">LTE Cleaner</string>
-    <string name="delete_empty_folders">Delete empty folders</string>
-    <string name="aggressive_filter">Enable aggressive filter</string>
-    <string name="whitelist">Whitelist</string>
-    <string name="privacy_policy">Privacy Policy</string>
-    <string name="add_to_whitelist">Add to whitelist</string>
-    <string name="cancel">Cancel</string>
+    <string name="app_name">LTE Tisztító</string>
+    <string name="delete_empty_folders">Üres mappák törlése</string>
+    <string name="aggressive_filter">Agresszív filter bekapcsolása</string>
+    <string name="whitelist">Kivétellista</string>
+    <string name="privacy_policy">Adatvédelmi Irányelvek</string>
+    <string name="add_to_whitelist">Kivétellistához hozzáadás</string>
+    <string name="cancel">Mégse</string>
     <string name="clean">Clean</string>
     <string name="analyze">Analyze</string>
     <string name="enable_generic_filter">Enable generic filter</string>
