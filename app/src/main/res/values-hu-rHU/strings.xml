@@ -78,13 +78,13 @@
     </string-array>
     <!-- TODO: Remove or change this placeholder text -->
     <string-array name="aggressive_filter_folders">
-        <item>supersonicads</item>
+        <item>szuperszónikus reklámok</item>
         <item>Gyorsítótár</item>
         <item>Analitika</item>
         <item>bélyegképek?</item>
         <item>mobvista</item>
-        <item>UnityAdsVideoCache</item>
-        <item>albumthumbs?</item>
+        <item>UnityVideoReklámGyorsítótár</item>
+        <item>albumminiatűrök?</item>
         <item>LOST.DIR</item>
         <item>.Trash</item>
         <item>desktop.ini</item>
@@ -92,10 +92,10 @@
         <item>.DS_Store</item>
         <item>.spotlight-V100</item>
         <item>fseventsd</item>
-        <item>Bugreport</item>
-        <item>bugreports</item>
-        <item>.Trash</item>
-        <item>cache</item>
+        <item>Hibajelentés</item>
+        <item>hibajelentések</item>
+        <item>.Kuka</item>
+        <item>gyorsítótár</item>
         <item>splashad</item>
     </string-array>
     <string-array name="aggressive_filter_files">
