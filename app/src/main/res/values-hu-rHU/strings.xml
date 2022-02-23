@@ -105,8 +105,8 @@
         <item>splashad</item>
     </string-array>
     <string-array name="themes">
-        <item>Auto</item>
-        <item>Light</item>
-        <item>Dark</item>
+        <item>Automata</item>
+        <item>Világos</item>
+        <item>Sötét</item>
     </string-array>
 </resources>
