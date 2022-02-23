@@ -63,7 +63,7 @@
     <string name="delete">Törlés</string>
     <string name="clipboard_clear_failed">Vágólap törlése sikertelen</string>
     <string name="settings_notification_name">Napi tisztító értesítés</string>
-    <string name="settings_notification_sum">Shows notification of how much data was cleaned daily</string>
+    <string name="settings_notification_sum">Értesítést küld arról, hogy mennyi adat lett törölve naponta</string>
     <string-array name="generic_filter_files">
         <item>.tmp</item>
         <item>.log</item>
@@ -104,8 +104,8 @@
         <item>splashad</item>
     </string-array>
     <string-array name="themes">
-        <item>Auto</item>
-        <item>Light</item>
-        <item>Dark</item>
+        <item>Automata</item>
+        <item>Világos</item>
+        <item>Sötét</item>
     </string-array>
 </resources>
