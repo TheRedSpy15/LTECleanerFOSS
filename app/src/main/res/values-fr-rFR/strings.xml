@@ -14,7 +14,7 @@
     <string name="analyze">Analyser</string>
     <string name="enable_generic_filter">Activer le filtre générique</string>
     <string name="one_click_clean">Un clic sur le nettoyage</string>
-    <string name="freed">Freed: </string>
+    <string name="freed">Libéré : </string>
     <string name="found">Trouvé: </string>
     <string name="auto_whitelist">Liste blanche automatique</string>
     <string name="reset_whitelist">Liste blanche vide?</string>
