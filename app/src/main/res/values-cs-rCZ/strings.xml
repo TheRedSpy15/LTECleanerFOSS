@@ -3,7 +3,7 @@
   ~ Copyright 2020 Hunter J Drum
   -->
 <resources>
-    <string name="app_name">Vyčištění LTE</string>
+    <string name="app_name">LTE Cleaner</string>
     <string name="delete_empty_folders">Odstranit prázdné složky</string>
     <string name="aggressive_filter">Povolit agresivní filtr</string>
     <string name="whitelist">Seznam povolených adres</string>
