@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright 2020 Hunter J Drum
+  -->
+<resources>
+    <string name="app_name">LTE சுத்தம்</string>
+    <string name="delete_empty_folders">வெற்று அடைவுகளை நீக்கு</string>
+    <string name="aggressive_filter">ஆயுத்த வடிகட்டியை செயல்படுத்து</string>
+    <string name="whitelist">வெள்ளிஸ்ட்</string>
+    <string name="privacy_policy">தனிப்பயன் கொள்கை</string>
+    <string name="add_to_whitelist">வெற்றிடத்தை சேர்</string>
+    <string name="cancel">ரத்து செய்</string>
+    <string name="clean">சுத்தம்</string>
+    <string name="analyze">Analyze</string>
+    <string name="enable_generic_filter">பொதுவான வடிகட்டியை செயல்படுத்து</string>
+    <string name="one_click_clean">ஒரு க்ளிக் சுத்தம்</string>
+    <string name="freed">ஃப்ரிட்: </string>
+    <string name="found">கண்டிப்பாக: </string>
+    <string name="auto_whitelist">தானியங்கி வெள்ளை</string>
+    <string name="reset_whitelist">வெற்று whitelist?</string>
+    <string name="are_you_reset_whitelist">நீங்கள் whitelist தெளிவாக விரும்புகிறீர்களா?</string>
+    <string name="reset">தெளிவாக்கு</string>
+    <string name="delete_apk_files">.apk கோப்புகளை நீக்கு</string>
+    <string name="status_idle">நிலை: அடையாள</string>
+    <string name="progress_0">0 %</string>
+    <string name="status_running">நிலை: இயங்கும்</string>
+    <string name="privacy_sum">தனிப்பயன் கொள்கையை காட்டு (வெளி இணைப்பு)</string>
+    <string name="generic_sum">.tmp, .log, Logs, logs</string>
+    <string name="aggressive_sum">இங்கே பட்டியலிடப்பட்டுள்ளது</string>
+    <string name="apk_sum">Android க்கு நிறுவப்பட்ட கோப்புகள்</string>
+    <string name="oneclick_sum">சுத்தமான பொத்தானை அழுத்தும் பொழுது உறுதிபடுத்தும் உரையாடல்</string>
+    <string name="autowhite_sum">தானாகவே பாதுகாக்கப்பட்ட அடைவுகளை கண்டுபிடி</string>
+    <string name="prompt_string">தயவு செய்து கோப்பு அணுகல் அனுமதிகளை சேர்க்கவும்</string>
+    <string name="settings_string">அமைப்புகள்</string>
+    <string name="title_activity_prompt">PromptActivity</string>
+    <string name="corpse_summary">நிறுவப்பட்ட ஆபிஸ் இருந்து விட்டு கோப்புகள்</string>
+    <string name="corpse_title">கோப்பு கோப்புகளை நீக்கு</string>
+    <string name="other">மற்ற</string>
+    <string name="daily_title">தினசரி சுத்தம்</string>
+    <string name="daily_sum">தானாகவே தினசரி இயங்கும், உங்களால் ஆப் திறப்பதற்கு இல்லாமல்.</string>
+    <string name="other_apps">என் மற்ற ஆபிஸ் சரிபார்க்கவும்!</string>
+    <string name="other_apps_sum">நான ் ஒவ ் வொரு வாரத ் தில ் புதிய ஒன ் றுக ் கொண ் டிருக ் கும ்.</string>
+    <string name="permission_needed">அனுமதி தேவை!</string>
+    <string name="failed_scan">வருட இயலவில்லை.</string>
+    <string name="are_you_sure_deletion">நீங்கள் உறுதியாக இருக்கிறீர்களா? கோப்புகள் நீக்கப்படவில்லை</string>
+    <string name="are_you_sure_deletion_title">பிழையை உறுதிசெய்</string>
+    <string name="aggressive_filter_what_title">என்ன ஆச்சரியமான வடிகட்டி</string>
+    <string name="adds_the_following">பின்வரும் வடிகட்டிகளை சேர்:</string>
+    <string name="samsung_not_work">சாம்பல் கருவிகளில் வேலை இல்லை</string>
+    <string name="clear_clipboard">இடைநிலைப் பலகை</string>
+    <string name="double_check_sum">ஒவ்வொரு முறையும் ஒவ்வொரு முறையும் ஒவ்வொரு முறையும் பத்து வருடங்களைக் கொண்டு செல்லும்.</string>
+    <string name="double_check_title">இரட்டை சரிபார்</string>
+    <string name="notification_title">LTE சுத்தமான பணியாளர் முடிந்தது</string>
+    <string name="clean_notification">சுத்தம்:</string>
+    <string name="empty_whitelist">வெற்றிடத்தில் எதுவும் இல்லை</string>
+    <string name="theme_sum">இல்லையென்றால் கணினி அமைப்புகளை பின்பற்றும். விளைவு எடுக்கும் பயன்பாடு மீண்டும் துவக்கு</string>
+    <string name="theme_title">தலைப்பை தேர்ந்தெடு</string>
+    <string name="filters_category_title">வடிகட்டிகள்</string>
+    <string name="scanner_category_title">ஸ்கானர்Name</string>
+    <string name="links_category_title">இணைப்புகள்</string>
+    <string name="settings_page_title">அமைப்புகள்</string>
+    <string name="remove_from_whitelist">Whitelist இருந்து நீக்கு?</string>
+    <string name="delete">நீக்கு</string>
+    <string name="clipboard_clear_failed">இடைநிலைப் பலகையை நீக்க இயலவில்லை</string>
+    <string name="settings_notification_name">தினசரி சுத்தமான அறிவிப்பு</string>
+    <string name="settings_notification_sum">நாளைக்கு எவ்வளவு தகவல் சுத்தம் செய்யப்பட்டது தெரியும் அறிவிப்பு</string>
+    <string-array name="generic_filter_files">
+        <item>.tmp</item>
+        <item>.log</item>
+    </string-array>
+    <string-array name="generic_filter_folders">
+        <item>நுழைவு</item>
+        <item>நுழைவுகள்Name</item>
+        <item>வெப்பம்</item>
+        <item>தற்காலிக</item>
+        <item>தற்காலிக</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string-array name="aggressive_filter_folders">
+        <item>Supersonicads</item>
+        <item>கால்சியம்</item>
+        <item>ஆய்வாளர்கள்</item>
+        <item>Thumbnails?</item>
+        <item>பொலாண்ட்Name</item>
+        <item>UnityAdsVideoCache</item>
+        <item>அல்பாம்பாம்ஸ்?</item>
+        <item>LOST.DIR</item>
+        <item>டிராஷ்</item>
+        <item>Desktop.ini</item>
+        <item>Leakcanary</item>
+        <item>.DS_ Store</item>
+        <item>.spotlight-V100</item>
+        <item>Fseventsd</item>
+        <item>Bugreport</item>
+        <item>Bugreports</item>
+        <item>டிராஷ்</item>
+        <item>தற்காலிக</item>
+        <item>ஸ்ப்ரஸ்ஸாண்ட்ஸ்Name</item>
+    </string-array>
+    <string-array name="aggressive_filter_files">
+        <item>மேற்கோள்கள்</item>
+        <item>Thumbs? db</item>
+        <item>Thumb |[0-9]</item>
+        <item>ஸ்ப்ரஸ்ஸாண்ட்ஸ்Name</item>
+    </string-array>
+    <string-array name="themes">
+        <item>தானாகவே</item>
+        <item>ஒளி</item>
+        <item>கறுப்பு</item>
+    </string-array>
+</resources>
