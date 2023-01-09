@@ -57,7 +57,7 @@ dependencies {
     testImplementation 'junit:junit:4.13.2'
 
     // AndroidJUnitRunner and JUnit Rules
-    androidTestImplementation 'androidx.test:runner:1.4.0'
+    androidTestImplementation 'androidx.test:runner:1.5.2'
 
     // Assertions
     androidTestImplementation 'androidx.test.ext:junit:1.1.3'
