@@ -46,7 +46,7 @@ android {
 
 dependencies {
     implementation 'dev.shreyaspatil.MaterialDialog:MaterialDialog:2.2.3'
-    implementation 'com.airbnb.android:lottie:5.2.0'
+    implementation 'com.airbnb.android:lottie:6.0.0'
 
     implementation fileTree(dir: 'libs', include: ['*.jar'])
 
