@@ -21,9 +21,9 @@
     <string name="are_you_reset_whitelist">Tem certeza de que quer limpar o whitelist?</string>
     <string name="reset">Limpar</string>
     <string name="delete_apk_files">Excluir arquivos .apk</string>
-    <string name="status_idle">Status: Idle</string>
+    <string name="status_idle">Status: Ocioso</string>
     <string name="progress_0">0%</string>
-    <string name="status_running">Status: Running</string>
+    <string name="status_running">Status: Executando</string>
     <string name="privacy_sum">Visualizar a política de privacidade (link externo)</string>
     <string name="generic_sum">.tmp, .log, Logs, logs</string>
     <string name="aggressive_sum">Muito para listar aqui</string>
@@ -62,7 +62,7 @@
     <string name="remove_from_whitelist">Remover do whitelist?</string>
     <string name="delete">Excluir</string>
     <string name="clipboard_clear_failed">Falha ao limpar a prancheta</string>
-    <string name="settings_notification_name">Notificação Diária Mais Limpa</string>
+    <string name="settings_notification_name">Notificação de Limpeza Diária</string>
     <string name="settings_notification_sum">Mostra notificação de quanto dados foram limpos diariamente</string>
     <string name="remove_ads_title">Remover Anúncios</string>
     <string-array name="generic_filter_files">
