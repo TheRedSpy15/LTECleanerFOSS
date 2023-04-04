@@ -6,9 +6,9 @@ Google. That's what happened. After a [one-sided] battle with playstore policy, 
 
 ![image](https://user-images.githubusercontent.com/32081703/229712969-c242062f-5b82-4d28-896a-123bf131a7c4.png)
 
-This screenshot is appearently the reason. Appearently it "deceives" users.
+This screenshot is apparently the reason. Apparently it "deceives" users.
 
-Without the vital revenue from the playstore varient, the FDroid varient will go unsupported. I do not have time for it anymore without some compensation.
+Without the vital revenue from the playstore variant, the FDroid variant will go unsupported. I do not have time for it anymore without some compensation.
 
 Thank you all for using my app. Never thought I'd hit 100k users on anything I'd make, but I did. Thank you
 
