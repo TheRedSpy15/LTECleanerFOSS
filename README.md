@@ -1,3 +1,18 @@
+# WONDERING WHAT HAPPENED TO DEVELOPMENT? (April 4th, 2023)
+
+Google. That's what happened. After a [one-sided] battle with playstore policy, LTE Cleaner has been permanitantly suspended. And as a result, I have given up. On top of the several clones I'm sure you have noticed on the playstore. This project started as a learning project in the 10th grade (2018), and ended up covering my monthly student debt bill from college after I added ads on the playstore variant.
+
+**Why was it suspended?**
+
+![image](https://user-images.githubusercontent.com/32081703/229712969-c242062f-5b82-4d28-896a-123bf131a7c4.png)
+
+This screenshot is appearently the reason. Appearently it "deceives" users.
+
+Without the vital revenue from the playstore varient, the FDroid varient will go unsupported. I do not have time from it anymore without some compensation.
+
+Thank you all for using my app. Never thought I'd hit 100k users on anything I'd make, but I did. Thank you
+
+
 ## LTECleanerFOSS
 
 <img src="https://imgur.com/ykSLpTS.png" width="300">
