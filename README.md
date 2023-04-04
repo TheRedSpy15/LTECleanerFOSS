@@ -1,6 +1,6 @@
 # WONDERING WHAT HAPPENED TO DEVELOPMENT? (April 4th, 2023)
 
-Google. That's what happened. After a [one-sided] battle with playstore policy, LTE Cleaner has been permanitantly suspended. And as a result, I have given up. On top of the several clones I'm sure you have noticed on the playstore. This project started as a learning project in the 10th grade (2018), and ended up covering my monthly student debt bill from college after I added ads on the playstore variant.
+Google. That's what happened. After a [one-sided] battle with playstore policy, LTE Cleaner has been permanently suspended. And as a result, I have given up. On top of the several clones I'm sure you have noticed on the playstore. This project started as a learning project in the 10th grade (2018), and ended up covering my monthly student debt bill from college after I added ads on the playstore variant.
 
 **Why was it suspended?**
 
@@ -8,7 +8,7 @@ Google. That's what happened. After a [one-sided] battle with playstore policy, 
 
 This screenshot is appearently the reason. Appearently it "deceives" users.
 
-Without the vital revenue from the playstore varient, the FDroid varient will go unsupported. I do not have time from it anymore without some compensation.
+Without the vital revenue from the playstore varient, the FDroid varient will go unsupported. I do not have time for it anymore without some compensation.
 
 Thank you all for using my app. Never thought I'd hit 100k users on anything I'd make, but I did. Thank you
 
