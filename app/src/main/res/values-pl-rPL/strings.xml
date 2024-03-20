@@ -62,6 +62,8 @@
     <string name="remove_from_whitelist">Czy usunąć z białej listy?</string>
     <string name="delete">Usuń</string>
     <string name="clipboard_clear_failed">Nie powiodło się skasowanie schowka</string>
+    <string name="settings_notification_name">Powiadomienie dot. codziennego czyszczenia</string>
+    <string name="settings_notification_sum">Wyświetla powiadomienie o tym, ile danych codziennie czyszczono</string>
     <string-array name="generic_filter_files">
         <item>.tmp</item>
         <item>.log</item>

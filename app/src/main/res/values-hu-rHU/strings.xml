@@ -3,96 +3,98 @@
   ~ Copyright 2020 Hunter J Drum
   -->
 <resources>
-    <string name="app_name">LTE Cleaner</string>
-    <string name="delete_empty_folders">Delete empty folders</string>
-    <string name="aggressive_filter">Enable aggressive filter</string>
-    <string name="whitelist">Whitelist</string>
-    <string name="privacy_policy">Privacy Policy</string>
-    <string name="add_to_whitelist">Add to whitelist</string>
-    <string name="cancel">Cancel</string>
-    <string name="clean">Clean</string>
-    <string name="analyze">Analyze</string>
-    <string name="enable_generic_filter">Enable generic filter</string>
-    <string name="one_click_clean">One click clean</string>
-    <string name="freed">Freed: </string>
-    <string name="found">Found: </string>
-    <string name="auto_whitelist">Auto Whitelist</string>
-    <string name="reset_whitelist">Empty whitelist?</string>
-    <string name="are_you_reset_whitelist">Are you sure you want to clear the whitelist?</string>
-    <string name="reset">Clear</string>
-    <string name="delete_apk_files">Delete .apk files</string>
-    <string name="status_idle">Status: Idle</string>
+    <string name="app_name">LTE Tisztító</string>
+    <string name="delete_empty_folders">Üres mappák törlése</string>
+    <string name="aggressive_filter">Agresszív filter bekapcsolása</string>
+    <string name="whitelist">Kivétellista</string>
+    <string name="privacy_policy">Adatvédelmi Irányelvek</string>
+    <string name="add_to_whitelist">Kivétellistához hozzáadás</string>
+    <string name="cancel">Mégse</string>
+    <string name="clean">Tisztítás</string>
+    <string name="analyze">Elemzés</string>
+    <string name="enable_generic_filter">Általános szűrő bekapcsolása</string>
+    <string name="one_click_clean">Egy gombos tisztítás</string>
+    <string name="freed">Felszabadítva: </string>
+    <string name="found">Találatok: </string>
+    <string name="auto_whitelist">Automata kivétellistázás</string>
+    <string name="reset_whitelist">Kivétellista ürítése?</string>
+    <string name="are_you_reset_whitelist">Biztosan ki akarja üríteni a kivétellistát?</string>
+    <string name="reset">Ürítés</string>
+    <string name="delete_apk_files">.apk fájlok törlése</string>
+    <string name="status_idle">Státusz: Tétlen</string>
     <string name="progress_0">0%</string>
-    <string name="status_running">Status: Running</string>
-    <string name="privacy_sum">View the privacy policy (external link)</string>
+    <string name="status_running">Státusz: Folyamatban</string>
+    <string name="privacy_sum">Adatvédelmi irányelvek megtekintése (külső hivatkozás)</string>
     <string name="generic_sum">.tmp, .log, Logs, logs</string>
-    <string name="aggressive_sum">Too much to list here</string>
-    <string name="apk_sum">Installer files for android</string>
-    <string name="oneclick_sum">No confirmation dialog when clean button is pressed</string>
-    <string name="autowhite_sum">Detect folders that should be protected automatically</string>
-    <string name="prompt_string">Please add file access permissions</string>
-    <string name="settings_string">Settings</string>
-    <string name="title_activity_prompt">PromptActivity</string>
-    <string name="corpse_summary">Files left over from uninstalled apps</string>
-    <string name="corpse_title">Delete corpse files</string>
-    <string name="other">Other</string>
-    <string name="daily_title">Daily Clean</string>
-    <string name="daily_sum">Automatically runs daily, without you having to open the app.</string>
-    <string name="other_apps">Check out my other apps!</string>
-    <string name="other_apps_sum">I try to have a new one out every week or so</string>
-    <string name="permission_needed">Permission needed!</string>
-    <string name="failed_scan">Scan failed.</string>
-    <string name="are_you_sure_deletion">Are you sure? Files deleted cannot be restored</string>
-    <string name="are_you_sure_deletion_title">Confirm Deletion</string>
-    <string name="aggressive_filter_what_title">What aggressive filter does</string>
-    <string name="adds_the_following">Adds the following filters:</string>
-    <string name="samsung_not_work">Doesn\'t work on samsung devices</string>
-    <string name="clear_clipboard">Clear clipboard</string>
-    <string name="double_check_sum">Will rerun scan each time something is found with a limit of ten scans</string>
-    <string name="double_check_title">Double Checker</string>
-    <string name="notification_title">LTE Clean Worker Finished</string>
-    <string name="clean_notification">Cleaned:</string>
-    <string name="empty_whitelist">Nothing in whitelist</string>
-    <string name="theme_sum">Will otherwise follow system settings. Restart app to take effect</string>
-    <string name="theme_title">Select Theme</string>
-    <string name="filters_category_title">Filters</string>
-    <string name="scanner_category_title">Scanner</string>
-    <string name="links_category_title">Links</string>
-    <string name="settings_page_title">Settings</string>
-    <string name="remove_from_whitelist">Remove from whitelist?</string>
-    <string name="delete">Delete</string>
-    <string name="clipboard_clear_failed">Failed to clear clipboard</string>
+    <string name="aggressive_sum">Túl sok a kilistázandó</string>
+    <string name="apk_sum">Android telepítőfájlok</string>
+    <string name="oneclick_sum">Ne kérjen megerősítést a tisztítás gomb megnyomásakor</string>
+    <string name="autowhite_sum">Kivételmappák automatikus felismerése</string>
+    <string name="prompt_string">Kérem engedélyezze a fájlokhoz való hozzáférést</string>
+    <string name="settings_string">Beállítások</string>
+    <string name="title_activity_prompt">Aktivitásprompt</string>
+    <string name="corpse_summary">Letörölt appok után maradt fájlok</string>
+    <string name="corpse_title">Szükségtelen fájlok törlése</string>
+    <string name="other">Egyéb</string>
+    <string name="daily_title">Napi Tisztítás</string>
+    <string name="daily_sum">Ütemezett napi indítás, az app megnyitása nélkül.</string>
+    <string name="other_apps">Nézze meg a többi alkalmazásomat is!</string>
+    <string name="other_apps_sum">Próbálok hetente egy újjal előrukkolni</string>
+    <string name="permission_needed">Engedély szükséges!</string>
+    <string name="failed_scan">Sikertelen vizsgálat.</string>
+    <string name="are_you_sure_deletion">Biztos benne? A fájlok véglegesen törlődnek</string>
+    <string name="are_you_sure_deletion_title">Törlés Megerősítése</string>
+    <string name="aggressive_filter_what_title">Mit tesz az agresszív szűrő</string>
+    <string name="adds_the_following">A következő szűrőket adja hozzá:</string>
+    <string name="samsung_not_work">Samsung eszközökön nem működik</string>
+    <string name="clear_clipboard">Vágólap tisztítása</string>
+    <string name="double_check_sum">Keresés újrafuttatása maximum 10-szer, minden találat esetén</string>
+    <string name="double_check_title">Újraellenőrző</string>
+    <string name="notification_title">LTE Tisztítási Folyamat Befejeződött</string>
+    <string name="clean_notification">Tisztítva:</string>
+    <string name="empty_whitelist">Üres kivétellista</string>
+    <string name="theme_sum">Egyéb esetben a rendszerbeállítások az irányadóak. A beállításhoz újraindítás szükséges</string>
+    <string name="theme_title">Téma kiválasztása</string>
+    <string name="filters_category_title">Szűrők</string>
+    <string name="scanner_category_title">Kereső</string>
+    <string name="links_category_title">Hivatkozások</string>
+    <string name="settings_page_title">Beállítások</string>
+    <string name="remove_from_whitelist">Eltávolítás a kivétellistáról?</string>
+    <string name="delete">Törlés</string>
+    <string name="clipboard_clear_failed">Vágólap törlése sikertelen</string>
+    <string name="settings_notification_name">Napi tisztító értesítés</string>
+    <string name="settings_notification_sum">Értesítést küld arról, hogy mennyi adat lett törölve naponta</string>
     <string-array name="generic_filter_files">
         <item>.tmp</item>
         <item>.log</item>
     </string-array>
     <string-array name="generic_filter_folders">
-        <item>Logs</item>
-        <item>logs</item>
+        <item>Logok</item>
+        <item>logok</item>
         <item>temp</item>
-        <item>Temporary</item>
-        <item>temporary</item>
+        <item>Ideiglenes</item>
+        <item>ideiglenes</item>
     </string-array>
     <!-- TODO: Remove or change this placeholder text -->
     <string-array name="aggressive_filter_folders">
-        <item>supersonicads</item>
-        <item>Cache</item>
-        <item>Analytics</item>
-        <item>thumbnails?</item>
+        <item>szuperszónikus reklámok</item>
+        <item>Gyorsítótár</item>
+        <item>Analitikák</item>
+        <item>miniatűrök?</item>
         <item>mobvista</item>
-        <item>UnityAdsVideoCache</item>
-        <item>albumthumbs?</item>
+        <item>UnityVideoReklámGyorsítótár</item>
+        <item>albumminiatűrök?</item>
         <item>LOST.DIR</item>
-        <item>.Trash</item>
+        <item>.Kuka</item>
         <item>desktop.ini</item>
         <item>leakcanary</item>
         <item>.DS_Store</item>
         <item>.spotlight-V100</item>
         <item>fseventsd</item>
-        <item>Bugreport</item>
-        <item>bugreports</item>
-        <item>.Trash</item>
-        <item>cache</item>
+        <item>Hibajelentés</item>
+        <item>hibajelentések</item>
+        <item>.Kuka</item>
+        <item>gyorsítótár</item>
         <item>splashad</item>
     </string-array>
     <string-array name="aggressive_filter_files">
@@ -102,8 +104,8 @@
         <item>splashad</item>
     </string-array>
     <string-array name="themes">
-        <item>Auto</item>
-        <item>Light</item>
-        <item>Dark</item>
+        <item>Automata</item>
+        <item>Világos</item>
+        <item>Sötét</item>
     </string-array>
 </resources>

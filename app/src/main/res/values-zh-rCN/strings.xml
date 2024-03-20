@@ -62,6 +62,8 @@
     <string name="remove_from_whitelist">从白名单中除去 ?</string>
     <string name="delete">删除</string>
     <string name="clipboard_clear_failed">无法清除剪贴板</string>
+    <string name="settings_notification_name">每日清理通知</string>
+    <string name="settings_notification_sum">显示每日清除多少数据的通知</string>
     <string-array name="generic_filter_files">
         <item>.tmp</item>
         <item>.log</item>
